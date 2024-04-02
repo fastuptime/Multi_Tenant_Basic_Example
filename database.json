@@ -1,0 +1,9 @@
+{
+    "sites": [
+        {
+            "site": "localhost",
+            "blocked": true,
+            "maintenance": false
+        }
+    ]
+}
